@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+            width:366px;
+            height:500px;
+            background-color:#FAF4EF;
+            border-radius:0px 0px 0px 50px;
+            margin-top:250px;
+}
+
+.satauri{
+
+    font-size:36px;
+    font-weight:400px;
+    margin-right:100px;
+    margin-top:100px;
+    color: #4B4B4B
+
+    
+}
+
+.fasi{
+
+    margin-right:210px;
+    font-size:24px;
+    font-weight:400px;
+    margin-top:20px;
+    color: #737373;
+}
+
+
+.surati{
+    margin-top:50px;
+    width:220px;
+    height:250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
